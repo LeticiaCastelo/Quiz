@@ -1,6 +1,6 @@
-# Desafio prático de Introdução ao Python - Rocketseat
+# Desafio Prático de Introdução ao Python - Rocketseat
 
-## Descrição
+## Sobre o Projeto
 
 Este projeto é o primeiro desafio prático da Formação Python da Rocketseat, desenvolvido utilizando os conceitos apresentados no módulo de introdução. A aplicação é um gerenciador de contatos simples, que permite ao usuário adicionar, visualizar, editar e remover contatos, além de marcar contatos como favoritos.
 
@@ -18,15 +18,6 @@ Este projeto é o primeiro desafio prático da Formação Python da Rocketseat, 
 - Deve ser possível marcar/desmarcar um contato como favorito.
 - Deve ser possível ver uma lista de contatos favoritos.
 - Deve ser possível apagar um contato.
-
-## Funcionalidades
-
-- **Adicionar Contato**: Permite adicionar um novo contato com nome, telefone, email e marcar como favorito.
-- **Visualizar Contatos**: Exibe a lista de todos os contatos cadastrados.
-- **Editar Contato**: Permite modificar os detalhes de um contato existente.
-- **Marcar/Desmarcar Favorito**: Permite marcar ou desmarcar um contato como favorito.
-- **Listar Favoritos**: Exibe a lista de contatos marcados como favoritos.
-- **Apagar Contato**: Remove um contato da lista de contatos.
 
 ## Tecnologias Utilizadas
 
