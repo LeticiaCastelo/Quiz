@@ -1,4 +1,4 @@
-# Primeiro desafio prático de Introdução ao Python - Rocketseat
+# Desafio prático de Introdução ao Python - Rocketseat
 
 ## Descrição
 
